@@ -37,4 +37,4 @@ newObj.emp.name = "newYuan";
 console.log(newObj.demoFn());
 console.log(oldObj);
 
-//TODO 后期优化对象引用导致的无限循环问题
+//TODO 后期优化对象引用导致的无限循环问题。
