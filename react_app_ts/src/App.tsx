@@ -1,10 +1,11 @@
 import logo from './image/logo.svg';
 import './App.css';
+import UseRef from './component/UseRef';
 
 function App() {
   return (
     <div className="App">
-          Learn React
+          <UseRef></UseRef>
     </div>
   );
 }
